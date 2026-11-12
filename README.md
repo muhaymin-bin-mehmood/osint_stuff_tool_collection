@@ -1949,6 +1949,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Image Analyzer Addon](https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek) | View all images on a page and expose image properties, EXIF data, and one-click download |
 | [MetadataRemover.ai](https://metadataremover.ai/) | Inspect, remove, edit and verify supported image metadata locally in the browser without uploading files or creating an account. |
 | [PictureToLink EXIF Remover](https://picturetolink.com/remove-exif) | Shows the GPS location, camera model and date taken stored in a photo and removes them. Runs locally in the browser; the photo is not uploaded. No account required. |
+| [BatchSet EXIF Viewer & Remover](https://batchset.com/tools/exif-metadata) | Shows the camera, lens, date taken and GPS location stored in a photo and removes all metadata before sharing. Runs in the browser; the photo is not uploaded. |
 | [Online metadata viewer and editor](https://products.groupdocs.app/metadata/) | High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp. |
 | [Scan QR Code](https://4qrcode.com/scan-qr-code.php) | While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture |
 | [Identify plans](https://identify.plantnet.org/) |     |
